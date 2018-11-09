@@ -225,3 +225,16 @@ footer a:hover {
     height: 600px;
     margin: 20px auto;
 }
+html,body {
+    height:100%;
+    background-color: #47ca6b;
+}
+
+.linkcatalogue, .linkcatalogue:active{
+    font-size: xx-large;
+    color: black !important;
+    text-underline-position: below;
+}
+.endiv{
+    height: 180px;
+}
